@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  tqkx-web:
+    build: .
+    container_name: tqkx-web
+    ports:
+      - "8080:80"
+    restart: unless-stopped
