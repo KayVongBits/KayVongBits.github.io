@@ -1,8 +1,15 @@
-# About
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 8
+---
+
 
 Hi, I’m KayVong, a student majoring in Integrated Circuit Design.
 
 This is my personal blog, where I record fragments of my learning, thoughts, projects, and daily life. The content here may not always be systematic or fully mature, but I hope it can preserve the observations, questions, and ideas I have at different stages.
+
+---
 
 ## What I Write About
 
@@ -20,6 +27,8 @@ This blog mainly includes the following topics:
 4. **Other Topics**  
    Ideas, resources, and questions that are difficult to categorize but still worth recording.
 
+---
+
 ## Why I Write
 
 I see writing as a way to organize my thoughts.
@@ -28,16 +37,20 @@ Many ideas quickly fade away if they only stay in my mind. Once written down, th
 
 This blog is not meant to present a “finished version” of myself. Instead, it is a record of a continuous process of learning, changing, and growing.
 
+---
+
 ## About Me
 
 I enjoy exploring new tools and breaking down complex things to understand how they work.
 
 Rather than trying to produce perfect answers all at once, I care more about continuous recording and iteration. Through learning and project practice, I hope to gradually turn scattered knowledge, experiences, and thoughts into something that can support future progress.
 
+---
+
 ## Contact
 
 If you have any thoughts about my posts, or simply want to exchange ideas, feel free to reach out:
 
-- Email: your-email@example.com
-- GitHub: your-github-link
-- X / Twitter: your-x-link
+- **Email:** [kayvong.bits@gmail.com](mailto:kayvong.bits@gmail.com)
+- **GitHub:** [KayVongBits](https://github.com/KayVongBits)
+- **X / Twitter:** [KayVong_bits](https://twitter.com/KayVong_bits)
