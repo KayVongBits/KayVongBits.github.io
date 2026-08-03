@@ -1,9 +1,27 @@
 ---
-title: 简历
-icon: fas fa-file-lines
-order: 2
+title: Resume
+icon: fas fa-file-alt
+order: 4
 ---
 
-# 个人简历
+## Focus
 
-这里填写教育经历、项目经历和研究方向。
+- Integrated circuit design
+- RISC-V architecture
+- FPGA and AI acceleration
+- Edge intelligence
+- AI for EDA
+
+## Skills
+
+- **Hardware:** SystemVerilog, Verilog, RISC-V, FPGA
+- **Programming:** C++, Python
+- **Tools:** Linux, Git, Verilator, Vivado, VS Code
+
+## Current Work
+
+I am building and documenting projects in digital design, computer architecture, and AI acceleration. Selected work will be added here as it becomes public.
+
+## Contact
+
+[GitHub](https://github.com/KayVongBits) · [Email](mailto:kayvong.bits@gmail.com)

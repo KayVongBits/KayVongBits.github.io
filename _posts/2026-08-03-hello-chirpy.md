@@ -1,22 +1,26 @@
 ---
-title: 我的个人网站上线了
+title: Hello, World
 date: 2026-08-03 08:00:00 +0800
-categories: [网站建设, Jekyll]
+categories: [LogLAB, Meta]
 tags: [jekyll, chirpy, github-pages]
-description: 记录我的 Chirpy 个人网站搭建过程。
+description: A fresh start for my personal corner of the web.
 ---
 
-这是我的第一篇文章。
+Welcome to my personal website.
 
-## 网站技术栈
+I created this space to document what I learn, build, and discover. Most posts will focus on integrated circuits, RISC-V, FPGA systems, AI acceleration, programming, and developer tools. From time to time, I will also write about travel, hobbies, and everyday life.
 
-这个网站使用：
+## Why This Site Exists
 
-- GitHub Pages
-- Jekyll
-- Chirpy
-- GitHub Actions
+Good ideas are easy to lose. Writing turns scattered notes into something clearer, more durable, and easier to share. This site is both a public notebook and a record of progress—even when that progress is imperfect.
 
-## 后续计划
+## What to Expect
 
-后续将在这里记录我的学习过程、项目和技术笔记。
+- Technical notes and explainers
+- Research and development logs
+- Side projects and experiments
+- Personal stories and reflections
+
+The site is built with [Jekyll](https://jekyllrb.com/), the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, GitHub Pages and cloudflare Workers.
+
+This is the first entry. More to come.
